@@ -17,12 +17,6 @@
       "url": "85.214.24.190",
       "port": 14115,
       "ssl": false
-    },
-    {
-      "name": "Bamn! Its a blockchain!",
-      "url": "bamn.spdns.de",
-      "port": 11898,
-      "ssl": false
     }
    
   ]

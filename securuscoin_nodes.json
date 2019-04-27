@@ -1,6 +1,12 @@
 {
   "nodes": [
     {
+      "name": "All-time on.W87",
+      "url": "185.223.28.172",
+      "port": 14115,
+      "ssl": false
+    },
+    {
       "name": "SecurusCoin Project W1",
       "url": "securuscoin.org",
       "port": 14115,

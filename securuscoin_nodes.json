@@ -23,6 +23,30 @@
       "url": "85.214.24.190",
       "port": 14115,
       "ssl": false
+    },
+    {
+      "name": "Markus 1",
+      "url": "45.32.154.69",
+      "port": 14115,
+      "ssl": false
+    },
+     {
+      "name": "Markus 2",
+      "url": "45.32.156.227",
+      "port": 14115,
+      "ssl": false
+    },
+     {
+      "name": "Markus 3",
+      "url": "167.86.101.170",
+      "port": 14115,
+      "ssl": false
+    },
+     {
+      "name": "Sebastian 1",
+      "url": "5.189.172.38",
+      "port": 14115,
+      "ssl": false
     }
    
   ]

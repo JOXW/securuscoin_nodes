@@ -43,6 +43,18 @@
       "ssl": false
     },
      {
+      "name": "Markus 4",
+      "url": "155.138.130.195",
+      "port": 14115,
+      "ssl": false
+    },
+     {
+      "name": "Markus 5",
+      "url": "207.148.123.118",
+      "port": 14115,
+      "ssl": false
+    },
+     {
       "name": "Sebastian 1",
       "url": "5.189.172.38",
       "port": 14115,

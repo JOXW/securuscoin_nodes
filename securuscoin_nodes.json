@@ -55,6 +55,12 @@
       "ssl": false
     },
      {
+      "name": "FELIX",
+      "url": "114.76.94.130",
+      "port": 14115,
+      "ssl": false
+    },
+     {
       "name": "Sebastian 1",
       "url": "5.189.172.38",
       "port": 14115,

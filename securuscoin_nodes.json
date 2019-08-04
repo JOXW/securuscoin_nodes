@@ -25,36 +25,6 @@
       "ssl": false
     },
     {
-      "name": "Markus 1",
-      "url": "45.32.154.69",
-      "port": 14115,
-      "ssl": false
-    },
-     {
-      "name": "Markus 2",
-      "url": "45.32.156.227",
-      "port": 14115,
-      "ssl": false
-    },
-     {
-      "name": "Markus 3",
-      "url": "167.86.101.170",
-      "port": 14115,
-      "ssl": false
-    },
-     {
-      "name": "Markus 4",
-      "url": "155.138.130.195",
-      "port": 14115,
-      "ssl": false
-    },
-     {
-      "name": "Markus 5",
-      "url": "207.148.123.118",
-      "port": 14115,
-      "ssl": false
-    },
-     {
       "name": "FELIX",
       "url": "144.76.94.130",
       "port": 14115,

@@ -7,35 +7,25 @@
       "ssl": false
     },
     {
-      "name": "SecurusCoin Project W1",
+      "name": "SecurusCoin Project SECURUS",
       "url": "securuscoin.org",
       "port": 14115,
       "ssl": false
     },
     {
-      "name": "SecurusCoin Project W2",
+      "name": "SecurusCoin Project SECURUS 2",
       "url": "81.169.244.95",
       "port": 14115,
       "ssl": false
     },
     {
-      "name": "SecurusCoin Project WS1",
+      "name": "SecurusCoin Project AIR",
       "url": "85.214.24.190",
       "port": 14115,
       "ssl": false
-    },
-    {
-      "name": "FELIX",
-      "url": "144.76.94.130",
-      "port": 14115,
-      "ssl": false
-    },
-     {
-      "name": "Sebastian 1",
-      "url": "5.189.172.38",
-      "port": 14115,
-      "ssl": false
     }
+    
+    
    
   ]
 }

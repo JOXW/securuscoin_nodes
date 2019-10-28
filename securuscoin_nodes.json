@@ -29,6 +29,12 @@
       "url": "85.214.24.190",
       "port": 14115,
       "ssl": false
+    },
+	{
+      "name": "vernetzt Franky",
+      "url": "vernetzt.ddns.net",
+      "port": 14115,
+      "ssl": false
     }
     
     
